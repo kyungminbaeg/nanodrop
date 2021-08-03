@@ -1,1 +1,1 @@
-# nanodrop
+# nanodrop-calculator
